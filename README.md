@@ -22,4 +22,4 @@ Use this as a starting point to complete the WDD 330 team activity: the SleepOut
 
 ## Site build
 
-- Netlify randomized URL: https://polite-maamoul-5874b7.netlify.app/ . The build version of the site will be considered the production version. Netlify will update your site every time it sees a change to the "main" GitHub branch.
+- Netlify randomized URL: https://polite-maamoul-5874b7.netlify.app/ . The build version of the site will be considered the production version. Netlify will update this site every time it sees a change to the "main" GitHub branch.
